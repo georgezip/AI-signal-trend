@@ -117,11 +117,11 @@ Skrypt był uruchamiany i testowany w następującym środowisku:
 
     ```
     Podaj dane logowania do MT5 (naciśnij Enter, aby użyć domyślnych):
-    Domyślny login: 52189641
+    Domyślny login: 12345678
     Login (lub Enter dla domyślnego): 
     Domyślny serwer: ICMarketsEU-Demo
     Serwer (lub Enter dla domyślnego): 
-    Domyślne hasło: E7B0gK@wZw9Jnh
+    Domyślne hasło: **gK@wZw******
     Hasło (lub Enter dla domyślnego): 
     ```
 
